@@ -7,8 +7,8 @@ This project is a Python implementation of two core compiler design concepts: co
 
 The script is divided into two main parts:
 1.  **Code Optimizer**: This part of the program takes a sequence of simple arithmetic assignments and applies several optimization techniques:
-    * **Constant Folding**: Evaluates expressions with constant values (e.g., `2 * 8` becomes `16`)[cite: 21, 23, 27].
-    * **Strength Reduction**: Replaces expensive operations with cheaper ones (e.g., `x * 1` becomes `x`)[cite: 21, 24].
+    * **Constant Folding**: Evaluates expressions with constant values (e.g., `2 * 8` becomes `16`).
+    * **Strength Reduction**: Replaces expensive operations with cheaper ones (e.g., `x * 1` becomes `x`).
     * **Dead Code Elimination**: Removes code that does not affect the program's result.
 
 2.  **Stack Machine Code Generator**: This part translates a given arithmetic expression into a sequence of assembly instructions for a simple stack-based machine.

@@ -27,12 +27,12 @@ This script directly solves the two problems outlined in the assignment.
 **Problem 1: Code Optimization**
 **Task:** Implement a program that detects redundant computations, dead code, and strength reduction.
 **Input:**
-⦁	x = 2 * 8
-⦁	y = x * 1
-⦁	z = y + 0
+x = 2 * 8 <br>
+y = x * 1 <br>
+z = y + 0 <br>
 **Expected Output:**
-⦁	x = 16
-⦁	Z = X
+x = 16 <br>
+Z = X <br>
 
 **Problem 2: Stack Machine Code Generation**
 **Task:** Implement a simple code generator that translates arithmetic expressions into target assembly for a stack machine.

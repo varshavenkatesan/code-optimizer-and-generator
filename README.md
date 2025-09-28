@@ -1,6 +1,6 @@
 # Code Optimizer and Stack Machine Code Generator
 
-This project is a Python implementation of two core compiler design concepts: code optimization and code generation. [cite_start]It was created as a solution for the "GitHub Assignment" for the course **CSE23CT302 - Theory of Computation and Compiler Design** at **Sri Ramachandra Faculty of Engineering and Technology**.
+This project is a Python implementation of two core compiler design concepts: code optimization and code generation. It was created as a solution for the "GitHub Assignment" for the course **CSE23CT302 - Theory of Computation and Compiler Design** at **Sri Ramachandra Faculty of Engineering and Technology**.
 
 ---
 ## Project Description

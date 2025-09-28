@@ -24,8 +24,8 @@ python compiler_tasks.py
 ### **Assignment Problems & Output**
 This script directly solves the two problems outlined in the assignment.
 
-**Problem 1: Code Optimization**
-**Task:** Implement a program that detects redundant computations, dead code, and strength reduction.
+**Problem 1: Code Optimization** <br>
+**Task:** Implement a program that detects redundant computations, dead code, and strength reduction. <br>
 **Input:**
 x = 2 * 8 <br>
 y = x * 1 <br>
@@ -34,9 +34,9 @@ z = y + 0 <br>
 x = 16 <br>
 Z = X <br>
 
-**Problem 2: Stack Machine Code Generation**
-**Task:** Implement a simple code generator that translates arithmetic expressions into target assembly for a stack machine.
-**Input:** (a+b)*c
+**Problem 2: Stack Machine Code Generation** <br>
+**Task:** Implement a simple code generator that translates arithmetic expressions into target assembly for a stack machine. <br>
+**Input:** (a+b)*c <br>
 **Expected Output:**
 PUSH a <br>
 PUSH b <br>
